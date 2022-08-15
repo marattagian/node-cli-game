@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "type": "module",
+  "bin": "./index.js",
   "dependencies": {
     "chalk": "^5.0.1",
     "chalk-animation": "^2.0.2",
