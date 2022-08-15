@@ -1,2 +1,2 @@
 # CLI Quiz Game
-A simple CLI made with node, which uses some good looking dependencies.
+A simple CLI made with node anduses some good looking dependencies.
