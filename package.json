@@ -1,6 +1,6 @@
 {
   "name": "gian-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI quiz game",
   "main": "index.js",
   "license": "MIT",
